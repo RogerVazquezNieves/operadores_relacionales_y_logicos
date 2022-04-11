@@ -1,0 +1,2 @@
+# operadores_relacionales_y_logicos
+Ejercicios condicionales utilizando operadores relacionales y logicos
